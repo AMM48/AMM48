@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI0bXFuaGdldzVjZm5pZ25manVqZGVyd3k2cGdyY2J3MDc4aTJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dT6fNwkHWrREk/giphy.webp" width="1100" height="350" />
 <!--
 **AMM48/AMM48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
